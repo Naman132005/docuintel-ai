@@ -1,0 +1,3 @@
+# Phase 1 development/test dependencies
+# Install with: pip install -r backend/requirements-dev.txt
+pytest>=9.0,<10.0
